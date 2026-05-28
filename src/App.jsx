@@ -134,7 +134,7 @@ function App() {
           }}
           spaceBetween={24}
           slidesPerView={1}
-          loop="true"
+          loop={true}
           breakpoints={{
             640: { slidesPerView: 2 },
             1024: { slidesPerView: 3 },
