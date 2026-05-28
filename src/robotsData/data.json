@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Waiter Robot",
+    "imageUrl": "/robotImages/waiter_robot_ref.png",
+    "description": "Features Bluetooth-based app summoning and ultrasonic navigation. It includes a custom GUI tablet for order processing, a servo-actuated dynamic serving tray, an automated beverage dispenser, and communication via an SV17F voice module."
+},
+{
+    "title": "Chef Robot",
+    "imageUrl": "/robotImages/chef_robot_ref.png" ,
+    "description": "Utilizes IR sensors for line tracking and an ultrasonic sensor to detect the waiter. It features servo-driven arms for automated ingredient pouring and an entertaining “Salt Bae” seasoning motion."
+  },
+  {
+    "title": "Smart Stove",
+    "imageUrl":"/robotImages/gas_stove_ref.png",
+    "description": "An autonomous prop that detects the chef via an ultrasonic sensor to trigger synchronized theatrical effects. It simulates realistic fire using programmable RGB LEDs, fans, and fabric, combined with relay-driven ignition sparks and a cold mist maker for steam simulation."
+  }
+]

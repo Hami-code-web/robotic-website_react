@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Yalda Sharifi",
+    "age": 16,
+    "desc": "Robotics Programmer. Developed the core software logic and control systems for the Waiter and Chef robots.",
+    "img": "membersImg/yalda/YaldaK.jpeg"
+  },
+  {
+    "name": "Barbod Bandezadeh",
+    "age": 14,
+    "desc": "Software Developer. Engineereed the Smart Stove systems and developed the project's companion mobile application.",
+    "img": "membersImg/barbod/BarrbodK.jpeg"
+  },
+  {
+    "name": "Sevin Nikzad",
+    "age": 17,
+    "desc": "Mechanical Engineer. Led the 3D structural design of the Chef robot and Smart Stove using SolidWorks.",
+    "img":"membersImg/sevin/SevinK.png.jpeg"
+  },
+  {
+    "name": "Rassam Rezaie",
+    "age": 15,
+    "desc": "Mechanical Engineer. Designed specialized components in SolidWorks and executed the physical assembly of all robotic.",
+    "img":"membersImg/rassam/RasamK.png.jpeg"
+  },
+  {
+    "name": "Diana Asadi",
+    "age": 17,
+    "desc": "Electronics Engineer. Designed custom PCBs via Altium Designer and managed all complex wiring and precision soldering.",
+    "img":"membersImg/diana/ArtmanK.png.jpeg"
+  }
+]
