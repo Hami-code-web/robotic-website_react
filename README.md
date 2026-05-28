@@ -1,16 +1,21 @@
-# React + Vite
+# Skybar - House of Idea 🤖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The official website for **Skybar** (House of Idea) Robotic Academy. This project features a modern, interactive web interface designed to showcase our smart robots, key robotic systems, and the development team.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Sliders:** Swiper.js
+- **Icons:** React Icons
 
-## React Compiler
+## ✨ Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fully responsive design with a modern Dark/Neon UI.
+- Interactive robot showcase with immersive hover effects.
+- Highlights 4 core robotic systems:
+  - Precise and stable line-following system.
+  - Audio playback and voice interaction capabilities.
+  - Creative cooking process simulation with ignition sparks.
+  - Intelligent human-following keeping safe distances.
+- Autoplay slider for team member introductions.
